@@ -10,5 +10,5 @@ export default {
       icon: 'en',
    },
    serverURL: 'http://3.18.60.150:4000',
-   appURL: 'http://18.223.110.24:81'
+   appURL: 'http://18.223.110.24:3000'
 };
