@@ -9,6 +9,6 @@ export default {
       name: 'English',
       icon: 'en',
    },
-   serverURL: 'http://3.18.60.150:4000',
-   appURL: 'http://18.223.110.24:3000'
+   serverURL: 'http://3.23.22.169:4000',
+   appURL: 'http://3.23.22.169:3000'
 };
